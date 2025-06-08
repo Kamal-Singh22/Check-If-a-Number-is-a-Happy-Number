@@ -8,4 +8,4 @@ If a number repeats, it's not happy.
 
 If we reach 1, the number is happy.
 
-getSumOfSquares() calculates the sum of squares of digits.
+getSumOfSquares() calculates the sum of squares of digits...
